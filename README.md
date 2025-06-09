@@ -14,6 +14,11 @@ This is a responsive and creative burger-themed website designed and developed b
 - CSS
 - JavaScript
 
+## 📸 Screenshot
+
+![Calculator Screenshot](https://shyam-kumar-dev.github.io/My-portfolio-/Burger.png) 
+
+
 ## 👨‍💻 About Me
 
 Hi, I'm **Ranga Shyam Kumar**, a passionate web designer and developer who enjoys crafting creative digital experiences.
