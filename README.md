@@ -5,7 +5,7 @@ This is a responsive and creative burger-themed website designed and developed b
 ## 🚀 Features
 
 - Responsive design using HTML, CSS, and JavaScript
-- Mouth-watering visuals and clean UI
+- Delicious visuals and clean UI
 - Personal project to practice web development
 
 ## 🛠️ Built With
